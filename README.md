@@ -1,1 +1,2 @@
 # PasswordGenerator
+Szybki generator haseł
